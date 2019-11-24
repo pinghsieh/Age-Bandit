@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# others
+matlab/figures/*
+matlab/src/figures/*
+*.DS_Store
